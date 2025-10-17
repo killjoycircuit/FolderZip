@@ -4,16 +4,16 @@ Convert ASCII folder structures into downloadable ZIP files instantly.
 
 ## What is FolderZip?
 
-A simple web tool that transforms ASCII tree-formatted folder structures into ready-to-download ZIP files. No backend, no setup—just paste and download.
+A simple web tool that transforms ASCII tree formatted folder structures into ready to download ZIP files. No backend, no setup just paste and download.
 
 ## Features
 
 - ✨ Paste ASCII structure, download ZIP
-- 🛡️ Real-time validation & error detection
-- 👁️ Live preview before download
-- 🔧 Auto-sanitizes invalid characters
-- 💻 Runs entirely in browser
-- 📦 Supports all file types
+-  Real-time validation & error detection
+- Live preview before download
+-  Auto-sanitizes invalid characters
+- Runs entirely in browser
+-  Supports all file types
 
 ## How to Use
 
@@ -62,9 +62,3 @@ JavaScript, TypeScript, Python, Java, C++, C#, PHP, Go, Rust, Swift, HTML, CSS, 
 - Tailwind CSS
 - JSZip
 - Vite
-
-## GitHub
-
-[@killjoycircuit/folderzip](https://github.com/killjoycircuit/folderzip)
-
-**Made by [@killjoycircuit](https://github.com/killjoycircuit)**
