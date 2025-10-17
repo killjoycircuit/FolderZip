@@ -290,6 +290,8 @@ const FolderToZip: FC = () => {
                 <li>└─ for last item</li>
                 <li>│ for nesting</li>
                 <li>.ext for files</li>
+                <li className="text-red-600 font-semibold">No comments after items</li>
+             
               </ul>
             </div>
 
