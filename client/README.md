@@ -62,9 +62,3 @@ JavaScript, TypeScript, Python, Java, C++, C#, PHP, Go, Rust, Swift, HTML, CSS, 
 - Tailwind CSS
 - JSZip
 - Vite
-
-## GitHub
-
-[@killjoycircuit/folderzip](https://github.com/killjoycircuit/folderzip)
-
-**Made by [@killjoycircuit](https://github.com/killjoycircuit)**
