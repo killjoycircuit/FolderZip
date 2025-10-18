@@ -4,7 +4,8 @@ Convert ASCII folder structures into downloadable ZIP files instantly.
 
 ## What is FolderZip?
 
-A simple web tool that transforms ASCII tree formatted folder structures into ready to download ZIP files. No backend, no setup just paste and download.
+A simple web tool that transforms ASCII tree formatted folder structures into ready to download ZIP files.
+Perfect for vibe coding and quick prototyping.
 
 ## Features
 
