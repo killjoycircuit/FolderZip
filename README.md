@@ -47,7 +47,7 @@ project/
 git clone https://github.com/killjoycircuit/folderzip.git
 
 # Install & run
-cd folderzip
+cd client
 npm install
 npm run dev
 ```
