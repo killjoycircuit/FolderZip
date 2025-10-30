@@ -9,8 +9,8 @@ Perfect for vibe coding and quick prototyping.
 
 ## Features
 
-- ✨ Paste ASCII structure, download ZIP
--  Real-time validation & error detection
+-  Paste ASCII structure, download ZIP
+-  Real time validation & error detection
 - Live preview before download
 -  Auto-sanitizes invalid characters
 - Runs entirely in browser
