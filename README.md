@@ -1,6 +1,6 @@
 # FolderZip
 
-Convert ASCII folder structures into downloadable ZIP files instantly.
+Convert ASCII folder structures into downloadable ZIP files.
 
 ## What is FolderZip?
 
