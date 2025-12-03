@@ -8,7 +8,6 @@ A simple web tool that transforms ASCII tree formatted folder structures into re
 Perfect for vibe coding and quick prototyping.
 
 ## Features
-
 -  Paste ASCII structure, download ZIP
 -  Real time validation & error detection
 - Live preview before download
@@ -17,13 +16,11 @@ Perfect for vibe coding and quick prototyping.
 -  Supports all file types
 
 ## How to Use
-
 1. **Paste** your folder structure in ASCII format
 2. **Validate** to check for errors
 3. **Download** the ZIP file
 
 ## Format
-
 ```
 project/
 ├─ src/
@@ -42,7 +39,6 @@ project/
 - Folders have no extensions
 
 ## Getting Started
-
 ```bash
 # Clone repo
 git clone https://github.com/killjoycircuit/folderzip.git
@@ -54,7 +50,6 @@ npm run dev
 ```
 
 ## Supported File Types
-
 JavaScript, TypeScript, Python, Java, C++, C#, PHP, Go, Rust, Swift, HTML, CSS, JSON, XML, YAML, PNG, JPG, SVG, MP3, MP4, PDF, and more.
 
 ## Tech Stack
